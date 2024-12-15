@@ -10,12 +10,12 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 - Exploring **cloud technologies**, **Firebase integration**, and **Firebase for feedback systems**.
 
 ### 🔧 Technologies & Tools
-- **Programming Languages**: Python, Java, C#, Dart (Flutter)
+- **Programming Languages**: Python, Java, C#, Dart (Flutter), C, C++
 - **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
 - **Databases**: MySQL, Firebase
 - **Mobile Development**: Flutter
 - **Version Control**: Git, GitHub
-- **Cloud**: Firebase
+- **Cloud**: Firebase, AWS
 - **Tools**: Visual Studio, Android Studio, Xcode
 
 
