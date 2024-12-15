@@ -18,41 +18,6 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 - **Cloud**: Firebase
 - **Tools**: Visual Studio, Android Studio, Xcode
 
----
-
-## 🚀 Projects
-
-### 1. **[Chanting Application (Flutter)](link)**
-A mobile app that allows users to track the number of chanting rounds, featuring custom mantras for different gods. Built using **Flutter** and **Firebase** for feedback.
-
-- 📌 **Features**:
-  - Tracks chanting rounds with a limit of 108.
-  - Customizable mantras for various gods.
-  - Firebase feedback integration.
-
-### 2. **[Working Hours Tracker (Flutter)](link)**
-An app to track working hours and payments for specific days, with offline functionality.
-
-- 📌 **Features**:
-  - Manage paid and unpaid days.
-  - Calculated working hours based on start and end times.
-  - Color-coded status (paid vs. unpaid) for quick tracking.
-
-### 3. **[Student GPA Calculator (C#)](link)**
-A C# console application that calculates student GPAs based on their course scores and credits.
-
-- 📌 **Features**:
-  - Calculates GPA based on courses, scores, and credits.
-  - Simple console interface.
-
-### 4. **[Windows Programming]**
-A Windows-based application that implements network communication using TCP/IP for reading and writing student data.
-
-- 📌 **Features**:
-  - Implements the **Observer Pattern** for stock price tracking.
-  - TCP/IP client-server architecture for retrieving student records.
-
----
 
 ## 🌍 Let's Connect
 - **LinkedIn**: [Tunk Ashwin Raj](https://www.linkedin.com/in/tunkashwinraj)
@@ -76,7 +41,7 @@ A Windows-based application that implements network communication using TCP/IP f
 ---
 
 ## 📊 GitHub Stats
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinRaj&show_icons=true&theme=radical)
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunkashwinraj&show_icons=true&theme=radical)
 
 ---
 
