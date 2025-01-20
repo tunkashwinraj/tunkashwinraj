@@ -13,10 +13,10 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 ### 🔧 Technologies & Tools:
 - **Programming Languages**: Python, Java, C#, Dart (Flutter), C, C++
 - **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
-- **Databases**: MySQL, Firebase
+- **Databases**: MySQL, SSMS Studio, Firebase
 - **Mobile Development**: Flutter
 - **Version Control**: Git, GitHub
-- **Cloud**: Firebase, AWS
+- **Cloud**: Firebase, AWS, Azure
 - **Tools**: Visual Studio, Android Studio, Xcode
 
 ---
@@ -42,7 +42,7 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 
 ## 🌍 Let's Connect:
 - **LinkedIn**: [Tunk Ashwin Raj](https://www.linkedin.com/in/tunkashwinraj)
-- **Twitter**: [@Ashwin_Raj](https://twitter.com/Ashwin_Raj)
+- **Twitter**: [@tunkashwinraj](https://x.com/tunkashwinraj)
 - **Email**: [astunk@my.bridgeport.edu](mailto:astunk@my.bridgeport.edu)
 
 ---
