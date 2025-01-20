@@ -49,24 +49,24 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 
 ## 👨‍💻 My Personal Projects:
 
-### 1. **[UrbanCanteen Food Ordering System](https://github.com/tunkashwinraj/UrbanCanteen)**
+### 1. **[UrbanCanteen Food Ordering System](https://github.com/tunkashwinraj/UrbanCanteen-User-Booking-App)**
 - **Tech Stack**: Flutter, Firebase
 - **Description**: A Flutter-based food ordering system with real-time order management, user authentication, and seamless payment integration. Designed to simplify the ordering process for customers and restaurant owners alike.
 - **Achievements**: Published research paper in IJSREM (ID: 2582-3930), Copyright Registered (March 2024).
 
-### 2. **[Marking Work Hours App](https://github.com/tunkashwinraj/WorkHoursApp)**
+### 2. **[Work Time Tracker](https://github.com/tunkashwinraj/WorkTime_Tracker)**
 - **Tech Stack**: Flutter, Firebase
 - **Description**: An application to track and manage work hours for employees. It allows users to log their hours, view reports, and generate insights about their working patterns.
 
-### 3. **[Spiritual Chanting Mantra Application](https://github.com/tunkashwinraj/SpiritualMantraApp)**
+### 3. **[Spiritual Chanting Mantra Application](#)**
 - **Tech Stack**: Flutter, Firebase
 - **Description**: A mobile app focused on helping users engage with spiritual mantras. The app includes features like timers, mantra recordings, and meditation tracks to help users maintain focus and mindfulness.
 
-### 4. **[Complete Rental System](https://github.com/tunkashwinraj/RentalSystem)**
+### 4. **[Complete Rental System](https://github.com/tunkashwinraj/MyRentHub)**
 - **Tech Stack**: Flutter, Firebase
 - **Description**: A comprehensive rental system for buying and selling items. The app integrates user management, item listings, secure payment methods, and ratings to ensure a smooth transaction experience.
 
-### 5. **[Advertising Application](https://github.com/tunkashwinraj/AdvertisingApp)**
+### 5. **[Advertising Application](#)**
 - **Tech Stack**: Flutter, Firebase
 - **Description**: A platform designed to provide businesses with the ability to advertise their services and products. The app includes features for ad creation, distribution, and tracking performance.
 
@@ -114,9 +114,10 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 - **Programming Languages**: Java, Python, C++, C#, Dart (Flutter)
 - **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
 - **Mobile Development**: Flutter, Firebase
-- **Databases**: MySQL, Firebase
-- **Cloud Technologies**: Firebase, AWS
+- **Databases**: MySQL, SSMS Studio, Firebase, AWS(Basics), Azure(Basics)
+- **Cloud Technologies**: Firebase, AWS, Google Cloud Platform
 - **Tools**: Git, GitHub, Visual Studio, Android Studio, Xcode
+- **Proficiency**: Microsoft Office Suite (Word, Excel, PPT), Google Workspace (Docs, Sheets, Slides)
 - **Soft Skills**: Leadership, Communication, Problem-Solving, Collaboration
 
 ---
