@@ -1,5 +1,3 @@
-Here's the updated and detailed **README.md** file with your provided information integrated into your profile:
-
 ---
 
 # Hi, I'm Ashwin Raj 👋
