@@ -10,7 +10,7 @@ I'm a passionate **Computer Science Master's student** at the University of Brid
 - Working on **data visualization** and **network communication** projects using **TCP/IP** protocols.
 - Exploring **cloud technologies**, **Firebase integration**, and **Firebase for feedback systems**.
 
-### 🔧 Technologies & Tools:
+### Skills:
 
 **Programming Languages:**  
 Java, Python, JavaScript, C++, C#, Dart  
@@ -117,17 +117,6 @@ Data Structures & Algorithms, Agile/Scrum, UI/UX Design
 - **Master’s in Computer Science**, University of Bridgeport, Expected Graduation: April 2026, GPA: 3.66/4
 - **Bachelor’s of Technology in Computer Science**, CMR Engineering College, Hyderabad, India, CGPA: 7.73/10
 
----
-
-## 🛠️ Skills:
-- **Programming Languages**: Java, Python, C++, C#, Dart (Flutter)
-- **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
-- **Mobile Development**: Flutter, Firebase
-- **Databases**: MySQL, SSMS Studio, Firebase, AWS(Basics), Azure(Basics)
-- **Cloud Technologies**: Firebase, AWS, Google Cloud Platform
-- **Tools**: Git, GitHub, Visual Studio, Android Studio, Xcode
-- **Proficiency**: Microsoft Office Suite (Word, Excel, PPT), Google Workspace (Docs, Sheets, Slides)
-- **Soft Skills**: Leadership, Communication, Problem-Solving, Collaboration
 
 ---
 
