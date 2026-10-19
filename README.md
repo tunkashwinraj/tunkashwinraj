@@ -1,136 +1,74 @@
----
+# Hi, I'm Ashwin Raj Tunk 👋
 
-# Hi, I'm Ashwin Raj 👋
+**Founder & CEO of [Neyvo AI](https://ashwinrajtunk.com)** · Software architect and two-time founder building production AI agents.
 
-I'm a passionate **Computer Science Master's student** at the University of Bridgeport, with a deep interest in **web development**, **mobile application development (Flutter)**, **Python**, **Java**, and **C#**. I'm also an aspiring **entrepreneur** and tech enthusiast who enjoys developing innovative software solutions.
+I design and ship AI systems end to end: LLM agent harnesses, real-time voice agents, evaluation loops, and the cloud infrastructure they run on. I like owning a product from the first customer conversation to the code running in production.
 
-### 🌱 Currently, I'm focusing on:
-- Enhancing my skills in **web development**, **Python**, and **Flutter**.
-- Building mobile applications with **Flutter** that deliver high-quality user experiences.
-- Working on **data visualization** and **network communication** projects using **TCP/IP** protocols.
-- Exploring **cloud technologies**, **Firebase integration**, and **Firebase for feedback systems**.
-
-### Skills:
-
-**Programming Languages:**  
-Java, Python, JavaScript, C++, C#, Dart  
-
-**Frameworks & Tools:**  
-React, Node.js, .NET, Flutter, Git/GitHub, Postman, Spring Boot  
-
-**Cloud & Microservices:**  
-AWS (EC2, S3, Lambda), Google Cloud, Firebase, RESTful APIs, Microservices Architecture  
-
-**Databases:**  
-MySQL, SQL Server  
-
-**Additional Skills:**  
-Data Structures & Algorithms, Agile/Scrum, UI/UX Design  
-
+📈 **4,400+ contributions in the last year** across private and public repositories.
 
 ---
 
-## 📖 Research & Interests:
-- **Data Visualization**: Currently exploring the use of data visualization techniques to simplify complex data.
-- **Machine Learning**: Passionate about applying machine learning models to solve real-world problems.
-- **Entrepreneurship**: Founder of a **Startup India recognized** organization focused on IT services and app development.
+### 🚀 What I'm building: Neyvo AI
+
+Businesses talk to customers across calls, SMS, email, web chat, and WhatsApp, but each channel sits in a separate tool and is mostly handled by hand. That means missed calls, slow follow-ups, and conversation data that never gets analyzed.
+
+**Neyvo gives businesses one AI agent that works across every channel 24/7, deploys without engineers, and turns every conversation into decision-grade insight.**
+
+- 📞 **100,000+ production calls** handled for two institutional customers across **15+ departments**
+- ⚡ Real-time voice agent runtime (Pipecat + Twilio, streaming STT → LLM → TTS) with **sub-800 ms** response latency
+- 🧠 Shared agent harness behind voice, SMS, and email agents: tool calling, RAG, and multi-step flows
+- 🔐 Multi-tenant backend with department-level access control (PostgreSQL row-level security, FastAPI, Redis)
+- 🖥️ Self-hosted open-source models (Llama, Chatterbox TTS) on NVIDIA H200 GPUs
+- ✅ Automated evals: AI reviewer agents score real calls and texts, and scripted test calls validate every release
+
+### 🛠️ Neyvo AI Ops Center
+
+An AI-run operations control plane where **9 scheduled Claude agents** investigate production issues, write fixes with regression tests, review PRs, verify fixes, and audit real calls and texts 24/7, with **MFA-gated human approval** before any merge or deploy. Every agent reaches data only through an **MCP gateway** (PII masking, per-environment keys, staging-only writes, full audit).
 
 ---
 
-## 🎯 Goals:
-- To continuously enhance my skills and contribute to open-source projects.
-- To build **innovative solutions** that can make a significant impact in the tech industry.
-- To leverage my experience in **Flutter**, **Firebase**, and **web development** to create intuitive, user-friendly applications.
+### 🧰 Tech stack
+
+| Area | Tools |
+|---|---|
+| **AI & LLMs** | LLM agents, agent harnesses, tool calling, RAG, evals, MCP, Claude, OpenAI, Gemini, Llama |
+| **Voice AI** | Pipecat, LiveKit Agents, Twilio, Deepgram, Cartesia, ElevenLabs, Chatterbox |
+| **Backend** | Python, FastAPI, asyncio, WebSockets, PostgreSQL, Redis, Supabase |
+| **Frontend & Mobile** | React, Next.js, TypeScript, Tailwind CSS, Flutter, Firebase |
+| **Cloud & DevOps** | AWS (EKS, ECS Fargate, Lambda, RDS, S3, SES, CloudWatch), Kubernetes, Docker, Terraform, OpenTelemetry, Sentry |
+| **Languages** | Python, TypeScript, SQL, Java, C#, C++, Dart |
 
 ---
 
-## 📊 GitHub Stats:
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunkashwinraj&show_icons=true&theme=radical)
+### 📂 Selected projects
+
+- **[Adaptation Layer for Atypical Speech Recognition](https://github.com/tunkashwinraj/adaptation-layer-for-atypical-speech-recognition)** (Python, Deepgram, OpenAI, FastAPI, Flutter): a personal adaptation layer that improves speech recognition for people with dysarthric speech (baseline ASR → per-speaker vocabulary boosting and pronunciation patterns → LLM semantic repair), evaluated on UA-Speech across 28 speaker profiles and 1,900+ recordings with WER tracking.
+- **[UrbanCanteen](https://github.com/tunkashwinraj/UrbanCanteen-User-Booking-App)** (Flutter, Firebase): mobile and web food-ordering app with real-time orders, auth, and payments. Published in IJSREM; registered copyright.
+- **Cloud-Based Attendance System Using Face Recognition** (Python): automated attendance for 500+ users, improving process efficiency by 80%.
+- **TranslateGo** (Python, NLP): dialect-level speech translation; Smart India Hackathon 2022 finalist.
 
 ---
 
-## 🌍 Let's Connect:
-- **LinkedIn**: [Tunk Ashwin Raj](https://www.linkedin.com/in/tunkashwinraj)
-- **Twitter**: [@tunkashwinraj](https://x.com/tunkashwinraj)
-- **Email**: [astunk@my.bridgeport.edu](mailto:astunk@my.bridgeport.edu)
+### 💼 Experience
+
+- **Founder & CEO, Neyvo AI** · Aug 2025 – Present
+- **Founder & Director, Tunk Innovations Pvt. Ltd.** · Oct 2023 – Aug 2024 · Software consulting and services company recognized by Startup India; delivered 15+ client projects
+
+### 🎓 Education
+
+- **MS, Computer Science**, University of Bridgeport · May 2026
+- **B.Tech, Computer Science (AI & ML)**, CMR Engineering College · 2024
+
+### 🏆 Recognition
+
+- Ernest C. Trefz Student Entrepreneur Award (2026)
+- Runner-Up, Connecticut Entrepreneur Foundation State Competition (2026)
+- Finalist, Smart India Hackathon 2022
 
 ---
 
-## 👨‍💻 My Personal Projects:
+### 📫 Connect
 
-### 1. **[UrbanCanteen Food Ordering System](https://github.com/tunkashwinraj/UrbanCanteen-User-Booking-App)**
-- **Tech Stack**: Flutter, Firebase
-- **Description**: A Flutter-based food ordering system with real-time order management, user authentication, and seamless payment integration. Designed to simplify the ordering process for customers and restaurant owners alike.
-- **Achievements**: Published research paper in IJSREM (ID: 2582-3930), Copyright Registered (March 2024).
+[Website](https://ashwinrajtunk.com) · [LinkedIn](https://www.linkedin.com/in/tunkashwinraj/) · [Email](mailto:tunkashwin98@gmail.com)
 
-### 2. **[Work Time Tracker](https://github.com/tunkashwinraj/WorkTime_Tracker)**
-- **Tech Stack**: Flutter, Firebase
-- **Description**: An application to track and manage work hours for employees. It allows users to log their hours, view reports, and generate insights about their working patterns.
-
-### 3. **[Spiritual Chanting Mantra Application](#)**
-- **Tech Stack**: Flutter, Firebase
-- **Description**: A mobile app focused on helping users engage with spiritual mantras. The app includes features like timers, mantra recordings, and meditation tracks to help users maintain focus and mindfulness.
-
-### 4. **[Complete Rental System](https://github.com/tunkashwinraj/MyRentHub)**
-- **Tech Stack**: Flutter, Firebase
-- **Description**: A comprehensive rental system for buying and selling items. The app integrates user management, item listings, secure payment methods, and ratings to ensure a smooth transaction experience.
-
-### 5. **[Advertising Application](#)**
-- **Tech Stack**: Flutter, Firebase
-- **Description**: A platform designed to provide businesses with the ability to advertise their services and products. The app includes features for ad creation, distribution, and tracking performance.
-
----
-
-## 🧑‍💻 Professional Experience:
-
-### **Director at Tunk Innovations Private Limited** (Oct 2023 – Aug 2024)
-- Led end-to-end delivery of mobile and web application projects, ensuring alignment with client goals and expectations.
-- Streamlined workflows to improve operational efficiency and service quality.
-- Recognized by Startup India Certification for innovation and excellence.
-
-### **Digital Marketing and Sales Intern at PrepJunction** (Mar 2021 – Apr 2021)
-- Optimized campaigns to increase client engagement and sales by 15%.
-
-### **Vice President, Student Government Association at University of Bridgeport** (Jan 2025 – Present)
-- Lead and chair monthly Student Senate meetings, fostering collaboration among representatives to address student concerns and enhance campus life.
-- Advocate for the student body by coordinating initiatives that promote welfare, inclusivity, and engagement.
-
----
-
-## 📚 Research Papers:
-
-### 1. **Innovative UrbanCanteen Food Ordering System (Flutter, Firebase)**
-- **Paper Published @ IJSREM - ID: 2582-3930**
-- The UrbanCanteen Food Ordering System is a mobile and web app built with Flutter and Firebase, enabling real-time order management, user authentication, and seamless payment integration.
-
-### 2. **Attendance System Using Face Recognition (Python, OpenCV)**
-- **Research Paper @ CMR College, Hyderabad**
-- Developed an automated attendance tracking system for 500+ students, improving efficiency by 80% using Python. Leveraged Python libraries like OpenCV, Dlib, and Face Recognition for face detection and recognition.
-
-### 3. **Speech Translation Dialects (NLP)**
-- **Smart India Hackathon Finalist**
-- Created an NLP-based application for dialect translation, improving communication accuracy across diverse regions.
-
----
-
-## 🎓 Education:
-- **Master’s in Computer Science**, University of Bridgeport, Expected Graduation: April 2026, GPA: 3.66/4
-- **Bachelor’s of Technology in Computer Science**, CMR Engineering College, Hyderabad, India, CGPA: 7.73/10
-
-
----
-
-## 📍 Contact:
-- **Email**: [astunk@my.bridgeport.edu](mailto:astunk@my.bridgeport.edu)
-- **Phone**: +1 203 812 8759
-- **LinkedIn**: [Tunk Ashwin Raj](https://www.linkedin.com/in/tunkashwinraj)
-
----
-
-### 📌 Thanks for visiting my GitHub!
-
-Feel free to explore my projects, contribute, or get in touch with me if you have any questions or collaboration opportunities.
-
----
-
-*Happy coding! 💻🚀*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tunkashwinraj&show_icons=true&hide_border=true)
