@@ -71,4 +71,3 @@ An AI-run operations control plane where **9 scheduled Claude agents** investiga
 
 [Website](https://ashwinrajtunk.com) · [LinkedIn](https://www.linkedin.com/in/tunkashwinraj/) · [Email](mailto:tunkashwin98@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tunkashwinraj&show_icons=true&hide_border=true)
